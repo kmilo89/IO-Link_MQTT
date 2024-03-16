@@ -1,2 +1,4 @@
 nodered_data
 mosquitto/data/*
+mariadb_data
+mysql_data

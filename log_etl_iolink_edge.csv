@@ -1,0 +1,19 @@
+2024-03-16 16:40:41.839595,Started execution of ETL_iolink_edge
+2024-03-16 16:40:41.847580,Error inserting values into the database. Error:Failed processing format-parameters; Python 'dict' cannot be converted to a MySQL type
+2024-03-16 16:40:41.847661,Error inserting values into the database. Error:Failed processing format-parameters; Python 'dict' cannot be converted to a MySQL type
+2024-03-16 16:40:41.847711,Error inserting values into the database. Error:Failed processing format-parameters; Python 'dict' cannot be converted to a MySQL type
+2024-03-16 16:40:41.847755,Error inserting values into the database. Error:Failed processing format-parameters; Python 'dict' cannot be converted to a MySQL type
+2024-03-16 16:40:41.847814,Error inserting values into the database. Error:Failed processing format-parameters; Python 'dict' cannot be converted to a MySQL type
+2024-03-16 16:40:41.847856,Error inserting values into the database. Error:Failed processing format-parameters; Python 'dict' cannot be converted to a MySQL type
+2024-03-16 16:40:41.847898,Error inserting values into the database. Error:Failed processing format-parameters; Python 'dict' cannot be converted to a MySQL type
+2024-03-16 16:40:41.847940,Error inserting values into the database. Error:Failed processing format-parameters; Python 'dict' cannot be converted to a MySQL type
+2024-03-16 16:40:46.852338,Error inserting values into the database. Error:Failed processing format-parameters; Python 'dict' cannot be converted to a MySQL type
+2024-03-16 16:40:46.852427,Error inserting values into the database. Error:Failed processing format-parameters; Python 'dict' cannot be converted to a MySQL type
+2024-03-16 16:40:46.852478,Error inserting values into the database. Error:Failed processing format-parameters; Python 'dict' cannot be converted to a MySQL type
+2024-03-16 16:40:46.852522,Error inserting values into the database. Error:Failed processing format-parameters; Python 'dict' cannot be converted to a MySQL type
+2024-03-16 16:40:46.852564,Error inserting values into the database. Error:Failed processing format-parameters; Python 'dict' cannot be converted to a MySQL type
+2024-03-16 16:40:46.852608,Error inserting values into the database. Error:Failed processing format-parameters; Python 'dict' cannot be converted to a MySQL type
+2024-03-16 16:40:46.852650,Error inserting values into the database. Error:Failed processing format-parameters; Python 'dict' cannot be converted to a MySQL type
+2024-03-16 16:40:46.852690,Error inserting values into the database. Error:Failed processing format-parameters; Python 'dict' cannot be converted to a MySQL type
+2024-03-16 16:43:34.775349,Table data already exists. Error:1050 (42S01): Table 'data' already exists
+2024-03-16 16:43:34.775402,Started execution of ETL_iolink_edge
