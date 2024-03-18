@@ -95,8 +95,8 @@ class etl_iolink_edge:
         global global_list_ports, global_data
         ports = range(1, 9)
         for port in ports:
-            if port not in global_list_ports:
-                global_data[port-1] = [datetime.now(self._colombia_tz), 'null', 0, port, json.dumps({})]
+            #if port not in global_list_ports:
+            global_data[port-1] = [datetime.now(self._colombia_tz), 'null', 0, port, json.dumps({})]
             # else para actualizar hora cuando el valor no cambia
         data = global_data
         return data

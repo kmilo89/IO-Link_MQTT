@@ -17,3 +17,5 @@
 2024-03-16 16:40:46.852690,Error inserting values into the database. Error:Failed processing format-parameters; Python 'dict' cannot be converted to a MySQL type
 2024-03-16 16:43:34.775349,Table data already exists. Error:1050 (42S01): Table 'data' already exists
 2024-03-16 16:43:34.775402,Started execution of ETL_iolink_edge
+2024-03-17 21:16:14.184602,Table data already exists. Error:1050 (42S01): Table 'data' already exists
+2024-03-17 21:16:14.184836,Started execution of ETL_iolink_edge
